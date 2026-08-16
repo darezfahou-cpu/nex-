@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.sync_shipment_from_event() FROM anon, authenticated, PUBLIC;
